@@ -1,0 +1,2 @@
+c'est un doc qui decrit la demarche à suivre dans git.
+step by step. 
