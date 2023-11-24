@@ -6,3 +6,4 @@ this repertory is built step by step in the tutorial
 This tutorial focuses mainly on git and using github as its remote 
 
 It now includes steps for github
+pour le 3e exo
